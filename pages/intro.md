@@ -24,5 +24,5 @@ There are two main Pano Logic devices - the G1, based on a Xilinx Spartan 3 FPGA
 
 ## Block Diagram
 
-![Block Diagram](images/Block Diagram v2.jpg)
+![Block Diagram](../images/Block Diagram v2.jpg)
 
