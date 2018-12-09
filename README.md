@@ -4,4 +4,4 @@ I have been working on reverse engineering the Pano Logic G2 on and off for some
 
 #![Naked G2](https://twj42.github.io/PanoLogicG2_ReverseEngineering/images/IMG_0739.JPG)
 
-[Introduction](https://twj42.github.io/PanoLogicG2_ReverseEngineering/pages/intro.html)
+[Introduction](https://twj42.github.io/PanoLogicG2_ReverseEngineering/pages/intro.md)
