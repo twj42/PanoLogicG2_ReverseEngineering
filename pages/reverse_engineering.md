@@ -18,4 +18,4 @@ Main FPGA board - Bottom view
 Secondary board (mainly power and connectivity) - Top view
 
 ![Board2 - Bottom](../images/img440_bare_b2_bottom_600.jpg)
-Secondary board (mainly power and connectivity) - Bottom view
+Secondary board (mainly power and connectivity) - Bottom view.
