@@ -8,4 +8,4 @@ Sadly, once this was completed, I discovered @cyrozap - who had completed the sa
 
 A set of bare boards was created by stripping of the components, and careful sanding. This was done to assist the process of reverse engineering the discreet component connectivity. The photos are still a work in progress, but here they are:
 
-![Board1 - Top](../images/img440_bare_b1_bottom.jpg)
+![Board1 - Top](../images/img440_bare_b1_bottom_400.jpg)
