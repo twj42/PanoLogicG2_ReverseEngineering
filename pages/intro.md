@@ -22,8 +22,7 @@ There are two main Pano Logic devices - the G1, based on a Xilinx Spartan 3 FPGA
 * 1 JTAG port (1.2mm pitch)
 * Numerous voltage regulators (1.2V, 1.8V, 3.3V & 5V)
 
-## Physical Construction
+## Diagram
 
-As can be seen from the photos, the devices consists of two PCBs, the smaller one largely supplying power, connected via a third straight through PCB using PCI-X4 connectors.
-
+![Block Diagram](images/Block Diagram v2.jpg)
 
