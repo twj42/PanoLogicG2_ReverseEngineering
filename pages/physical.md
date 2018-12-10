@@ -8,7 +8,7 @@ Overview
 
 ![Components](../images/IMG_0741_600.jpg)
 
-Components - connecting board is just a pass through, except when there is power on both sides, when they are connected via a via. :-)
+Components - connecting board is just a pass through, except when there is power on both sides, when they are connected via a via. :-) The connector itslef is a standard PCI x4 connector.
 
 ![Main Board - Top](../images/IMG_2504_400.jpg)
 
