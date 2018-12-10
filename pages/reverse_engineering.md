@@ -2,7 +2,7 @@
 
 Connecting an eBay clone Xilinx Platform Cable USB connector to the JTAG with a simple adapter I made for the 1.2mm pitch connector showed that the device was straightforward to program. 
 
-![Adapter 1](../images/IMG_5235_600.jpg)
+![Adapter 1](../images/IMG_5235_800.jpg)
 
 ![Adapter 2](../images/IMG_5236_600.jpg)
 
@@ -30,6 +30,6 @@ Secondary board (mainly power and connectivity) - Top view
 
 Secondary board (mainly power and connectivity) - Bottom view.
 
-![The Parts](../images/img_5239_600.jpg)
+![The Parts](../images/IMG_5239_600.jpg)
 
 The removed parts
