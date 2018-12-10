@@ -2,7 +2,7 @@
 
 I think the physical description of these devices has been done to death elsewhere, so I'll just put up my photos. As ever, hi-res versions in *images*.
 
-![Overview](../images/IMG_0739_400.jpg)
+![Overview](../images/IMG_0739_300.jpg)
 
 Overview
 
