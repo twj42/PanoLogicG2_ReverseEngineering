@@ -6,6 +6,8 @@ Connecting an eBay clone Xilinx Platform Cable USB connector to the JTAG with a 
 
 ![Adapter 2](../images/IMG_5236_600.jpg)
 
+![JTAG Connections](../images/jtag_v1.jpg)
+
 Using the *Universal Scan* boundary scan software (http://www.ricreations.com/boundary-scan-products.html - free 14 day trial!), with judicious use of shorting to gnd or 3.3V provided a very straightforward (if tedious) way to determine FPGA connectivity. Fortunately most, if not all, FPGA connections were accessible using VIAs.
 
 < screen print tba >
