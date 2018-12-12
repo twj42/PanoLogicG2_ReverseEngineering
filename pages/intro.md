@@ -4,6 +4,18 @@ The Pano Logic device was originally a designed as a replacement for a full fat 
 
 There are two main Pano Logic devices - the G1, based on a Xilinx Spartan 3 FPGA, and the G2, which uses a Spartan 6. I have concentrated my reverse engineering efforts on the G2, for two main reasons - 1) the S3 is rather long in the tooth now, and 2) the physical construction of the G2 means it is much more hacker friendly (more on this later).
 
+## Xilinx Toolchain - Webpack
+
+The version of the Xilinx Webpack that supports all Spartan 6 devices is here:
+https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/design-tools.html
+or  https://bit.ly/2qNIO2N
+
+Documentation is here: 
+https://www.xilinx.com/support/documentation/sw_manuals/xilinx14_7/ug1227-spartan6-vm-windows10.pdf
+or https://bit.ly/2GK4kg2
+
+Interestingly, it is delivered as a Linux VM for Oracle Virtual Box, and only supported on Windows 10. Seems a curious configuration choice, I wonder how difficult it would be to get the VM to run on another virtualisation host? Still, good of Xilinx to release free support for all the S6 devices at last.
+
 ## G2 Specification
 
 * 2 * DVI connections (1 standard connector, one via a micro USB - DVI adapter)
