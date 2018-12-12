@@ -26,11 +26,8 @@ The two boards are mirror images of each other.
 
 ![Breakout Boards](../images/IMG_5252_600.jpg)
 
-A couple of views complete with connectors
+A couple of views complete with connectors. IDC only really needs to be attached to SV1 (24pin on the right) on the board that fits the main PCB, but has been fitted to both bobs here so I could reinstate any original functionality via link cables (eg the LEDs or switch, or, if I discovered I'd actually severed any critical connections by accident :-) ).
 
 ![Full Config](../images/IMG_0754_600.jpg) 
 
-G2 in full breakout mode with eBay USB / serial adapter attached
-
- 
-
+G2 in full breakout mode with eBay USB<->serial adapter attached
