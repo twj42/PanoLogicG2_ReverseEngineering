@@ -10,8 +10,8 @@ I have been working on reverse engineering the Pano Logic G2 on and off for some
 
 [Reverse Engineering](pages/reverse_engineering.md) - brief overview of the process I used to reverse engineer, and photos of bare boards.
 
-[Breakout Board](pages/bob.md) - tba
+[Breakout Board](pages/bob.md) - details and photos of the breakout board
 
 [BOB USB Software](pages/bobusb.md) - tba
 
-[Useful References](pages/references.md) - tba
+[Useful References](pages/references.md) - sources of information useful to a Pano hacker
