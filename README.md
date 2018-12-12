@@ -1,4 +1,4 @@
-## Pano Logic G2 Reverse Engineering
+# Pano Logic G2 Reverse Engineering
 
 I have been working on reverse engineering the Pano Logic G2 on and off for some time now. This project is intended as a repository of some of the random information I have collected or created in that time.
 
