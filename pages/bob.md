@@ -21,7 +21,7 @@ The PCI x4 connectors. Again, note the silk screen markings.
 
 Circuit diagram - as you can see, not all that sophisticated. Eagle files are in *files* folder (soon, when I find and check them :-) )
 
-![Breakout Boards](../images/IMG_0800_600.jpg)
+![Breakout Boards](../images/IMG_0800_800.jpg)
 
 The two boards are mirror images of each other.
 
